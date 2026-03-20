@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajal-mistry-0b701731a/)
 [![Google Dev](https://img.shields.io/badge/Google%20Dev%20Profile-4285F4?logo=google&logoColor=white)](https://g.dev/rajalmistry)
-[![Google Cloud Skill Boost](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.skills.google/public_profiles/aed8d26e-afab-49c4-9607-a9b98781c6b5)
+[![Google Cloud Skill Boost](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://www.skills.google/public_profiles/aed8d26e-afab-49c4-9607-a9b98781c6b5)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajalmistry544@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajalcrafts)
 
