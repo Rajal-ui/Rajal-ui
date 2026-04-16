@@ -1,25 +1,8 @@
-# 💫 About Me
+# Rajal Mistry — Rajal-ui
 
-🔭 Currently building **EduVault** — a full-stack college record management system (FastAPI + React + MySQL), and previously built a **POSIX-compliant Unix Shell** in C from scratch on Ubuntu Linux.
+I'm a backend-focused systems programmer and applied-AI enthusiast. I build production-ready APIs and full-stack apps (FastAPI + React), systems tooling in C/C++, and explore generative AI integrations and ML workflows.
 
-🌱 Learning **Java** and **JavaScript** while deepening my foundations in **Python, C, and C++**.
-
-☁️ **Google Cloud Skill Boost — Diamond League** with 47 badges across GenAI, Kubernetes, BigQuery ML, and DevOps. Verifiable at [g.dev/rajalmistry](https://g.dev/rajalmistry)
-
-🏆 **SIH 2025** internal round qualifier · **2nd place** in department-level CSBS technical competition
-
-💡 Interested in systems programming, backend development, and applied AI — always building something from scratch to understand how it actually works.
-
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajal-mistry-0b701731a/)
-[![Google Dev](https://img.shields.io/badge/Google%20Dev%20Profile-4285F4?logo=google&logoColor=white)](https://g.dev/rajalmistry)
-[![Google Cloud Skill Boost](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://www.skills.google/public_profiles/aed8d26e-afab-49c4-9607-a9b98781c6b5)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajalmistry544@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajalcrafts)
-
+Show some ❤️ by starring the repositories you like ⭐ 
 ---
 
 ## 💻 Tech Stack
@@ -36,50 +19,99 @@
 **Backend & Databases**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0C2D48?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-3C78D8?style=for-the-badge&logo=alembic&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Frontend & UI**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%234646ff.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23007ACC.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 **Cloud & DevOps**
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Data & ML (Learning)**
+**AI / ML & Integrations**
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Google AI](https://img.shields.io/badge/GoogleAI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0EA5A2?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
----
+**Tools & Libraries**
 
-## 📌 Featured Projects
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![dotenv](https://img.shields.io/badge/OpenEnv-%234A86E8?style=for-the-badge&logo=heroku&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-8B5CF6?style=for-the-badge&logo=bcrypt&logoColor=white)
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [myshell](https://github.com/Rajal-ui/myshell) | C, Linux | POSIX-compliant Unix shell — pipes, I/O redirection, signals, fork/exec |
-| [EduVault](https://github.com/Rajal-ui/eduvault) | FastAPI, MySQL | College record management system with role-based access (In Progress) |
-| [UTM Simulator](https://github.com/Rajal-ui/universal-turing-machine) | Python, Tkinter | Universal Turing Machine with real-time tape visualization |
+**Concepts & Misc**
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Rajal-ui&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rajal-ui&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajal-ui&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Rajal-ui&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![OOP](https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20Systems-2F855A?style=for-the-badge)
+![AI%20Workflow](https://img.shields.io/badge/AI%20Workflow-F59E0B?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-FF6B6B?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-254BDD?style=for-the-badge)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Rajal-ui&icon=0&color=0)](https://visitcount.itsvg.in)
+## Profile Badges & Live Analytics
+
+- GitHub summary
+	![](https://github-readme-stats.vercel.app/api?username=Rajal-ui&show_icons=true&theme=dark)
+
+- Top languages
+	![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajal-ui&layout=compact&theme=dark)
+
+- Contribution heatmap
+	![](https://ghchart.rshah.org/Rajal-ui)
+
+- Streak & trophies
+	![](https://nirzak-streak-stats.vercel.app/?user=Rajal-ui&theme=dark)
+	![](https://github-profile-trophy.vercel.app/?username=Rajal-ui&theme=tokyonight)
+
+- Visitors
+	[![](https://visitor-badge.laobi.icu/badge?page_id=Rajal-ui.Rajal-ui)](https://visitor-badge.laobi.icu)
+
+- Total time coded (WakaTime)
+  ![](https://wakatime.com/@Rajal.svg)
+
+- LeetCode stats
+  ![](https://leetcode-card.vercel.app/api?username=Rajal_Mistry)
+
+---
+
+## Pinned Repositories
+
+Here are some featured projects from this profile (top-starred):
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=Rajal-ui&repo=InboxOps&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=Rajal-ui&repo=Mini-Unix-Shell&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=Rajal-ui&repo=EduVault&theme=dark)
+
+---
+
+### Contribution activity (year)
+
+An activity graph for the last 12 months:
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Rajal-ui&range=year&theme=github)
+
+---
+
+## Quote
+
+“Code is poetry — if you like the stanza, leave a star.”
+
+---
