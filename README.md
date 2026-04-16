@@ -3,6 +3,7 @@
 I'm a backend-focused systems programmer and applied-AI enthusiast. I build production-ready APIs and full-stack apps (FastAPI + React), systems tooling in C/C++, and explore generative AI integrations and ML workflows.
 
 Show some ❤️ by starring the repositories you like ⭐ 
+
 ---
 
 ## 💻 Tech Stack
@@ -69,44 +70,34 @@ Show some ❤️ by starring the repositories you like ⭐
 ## Profile Badges & Live Analytics
 
 - GitHub summary
+
 	![](https://github-readme-stats.vercel.app/api?username=Rajal-ui&show_icons=true&theme=dark)
 
 - Top languages
+
 	![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajal-ui&layout=compact&theme=dark)
 
 - Contribution heatmap
+
 	![](https://ghchart.rshah.org/Rajal-ui)
 
-- Streak & trophies
-	![](https://nirzak-streak-stats.vercel.app/?user=Rajal-ui&theme=dark)
-	![](https://github-profile-trophy.vercel.app/?username=Rajal-ui&theme=tokyonight)
-
 - Visitors
+
 	[![](https://visitor-badge.laobi.icu/badge?page_id=Rajal-ui.Rajal-ui)](https://visitor-badge.laobi.icu)
 
 - Total time coded (WakaTime)
+
   ![](https://wakatime.com/@Rajal.svg)
 
-- LeetCode stats
-  ![](https://leetcode-card.vercel.app/api?username=Rajal_Mistry)
 
 ---
 
 ## Pinned Repositories
 
-Here are some featured projects from this profile (top-starred):
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=Rajal-ui&repo=InboxOps&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=Rajal-ui&repo=Mini-Unix-Shell&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=Rajal-ui&repo=EduVault&theme=dark)
-
----
-
-### Contribution activity (year)
-
-An activity graph for the last 12 months:
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=Rajal-ui&range=year&theme=github)
 
 ---
 
