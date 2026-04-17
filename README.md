@@ -5,9 +5,7 @@
 <a href="https://leetcode.com/u/Rajal_Mistry/"><img src="https://img.shields.io/badge/LeetCode-Rajal_Mistry-FFA116?style=flat-square&logo=leetcode&logoColor=yellow" alt="LeetCode" /></a>
 
 
-
-Backend-focused systems programmer and applied-AI enthusiast — I build production-ready APIs, low-level systems tooling, and GenAI integrations.
-
+Hi, I’m Rajal — a backend-focused systems programmer and applied-AI enthusiast. I build production-ready APIs, low-level systems tooling, and GenAI integrations… powered mostly by curiosity and caffeine. If it runs on logic, I’ll debug it; if it runs on duct tape, I’ll probably still try.
 ---
 
 ## Quick Links
@@ -18,9 +16,6 @@ Backend-focused systems programmer and applied-AI enthusiast — I build product
 [![GitHub](https://img.shields.io/badge/GitHub-Rajal--ui-181717?logo=github&logoColor=white)](https://github.com/Rajal-ui)
 
 ---
-
-<!-- Top languages snapshot removed from Quick Links (moved to GitHub Analytics) -->
-
 
 
 <details>
@@ -78,7 +73,7 @@ Show some ❤️ by starring the repositories you like ⭐ or by buying me a cof
 </div>
 <br/>
 <div align="center">
-<a href="https://www.buymeacoffee.com/tejasgupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px"></a>
+<a href="https://buymeacoffee.com/rajal_mistry" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px"></a>
 </div>
 <div align="center" style= "display: block;">
 
