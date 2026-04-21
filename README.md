@@ -1,12 +1,12 @@
 # Rajal Mistry
 
-<img src="https://komarev.com/ghpvc/?username=Rajal-ui&label=🌍%20Total%20Visitors&style=flat-square" alt="Total Visitors" />
-<a href="https://github.com/Rajal-ui?tab=repositories"><img src="https://img.shields.io/github/stars/Rajal-ui?style=flat-square&logo=github&label=Stargazers&color=teal" alt="GitHub Stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=Rajal-ui&label=🌍%20Total%20Visitors&style=flat-square" alt="Total Visitors" /><a href="https://github.com/Rajal-ui?tab=repositories"><img src="https://img.shields.io/github/stars/Rajal-ui?style=flat-square&logo=github&label=Stargazers&color=teal" alt="GitHub Stars" /></a>
 <a href="https://leetcode.com/u/Rajal_Mistry/"><img src="https://img.shields.io/badge/LeetCode-Rajal_Mistry-FFA116?style=flat-square&logo=leetcode&logoColor=yellow" alt="LeetCode" /></a>
 
 
-Hi, I’m Rajal — a backend-focused systems programmer and applied-AI enthusiast. I build production-ready APIs, low-level systems tooling, and GenAI integrations… powered mostly by curiosity and caffeine. If it runs on logic, I’ll debug it; if it runs on duct tape, I’ll probably still try.
----
+Hi, I’m Rajal — a full‑stack programmer and software engineer passionate about building scalable systems and integrating AI into real‑world projects. I design production‑ready APIs, craft backend and frontend solutions, and experiment with GenAI to push boundaries. My work is powered by curiosity, clean code, and the occasional caffeine boost — turning complex problems into elegant, efficient solutions.
+
+
 
 ## Quick Links
 
