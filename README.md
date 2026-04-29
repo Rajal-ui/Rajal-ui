@@ -59,13 +59,6 @@ Hi, I’m Rajal — a full‑stack programmer and software engineer passionate a
 
 ---
 
-## Pinned Repositories
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=Rajal-ui&repo=InboxOps&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=Rajal-ui&repo=Mini-Unix-Shell&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=Rajal-ui&repo=EduVault&theme=dark)
----
-
 
 <br>
 <div align="center">
