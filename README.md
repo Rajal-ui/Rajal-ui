@@ -59,6 +59,8 @@ Hi, I’m Rajal — a full‑stack programmer and software engineer passionate a
 
 ---
 
+# 👩🏻‍💻 Open Source Contributions
+
 ## 🏅 My Girl Script Summer Of Code 2026 Badges
 
 <div align="center">
