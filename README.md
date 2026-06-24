@@ -59,6 +59,39 @@ Hi, I’m Rajal — a full‑stack programmer and software engineer passionate a
 
 ---
 
+## 🏅 My Girl Script Summer Of Code 2026 Badges
+
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-gssoc_champion.png" width="150" alt="GSSoC Champion"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-top_100.png" width="150" alt="Top 100"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-elite.png" width="150" alt="Elite"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-power_contributor.png" width="150" alt="Power Contributor"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-prolific.png" width="150" alt="Prolific"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-bounty_master.png" width="150" alt="Bounty Master"/></td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-bounty_hunter.png" width="150" alt="Bounty Hunter"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-rising_star.png" width="150" alt="Rising Star"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-building_momentum.png" width="150" alt="Building Momentum"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-on_a_roll.png" width="150" alt="On a Roll"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-consistent.png" width="150" alt="Consistent"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-point_scorer.png" width="150" alt="Point Scorer"/></td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-role_contributor.png" width="150" alt="Role Contributor"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-week_one%20(1).png" width="150" alt="Week One"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-getting_started.png" width="150" alt="Getting Started"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-first_steps.png" width="150" alt="First Steps"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-profile_complete.png" width="150" alt="Profile Complete"/></td>
+      <td align="center" style="padding: 3px;"><img src="assets/gssoc-badge-discord_verified.png" width="150" alt="Discord Verified"/></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 
 <br>
 <div align="center">
