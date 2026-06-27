@@ -1,7 +1,5 @@
 # Rajal Mistry
 
-<img src="https://komarev.com/ghpvc/?username=Rajal-ui&label=🌍%20Total%20Visitors&style=flat-square" alt="Total Visitors" /><a href="https://github.com/Rajal-ui?tab=repositories"><img src="https://img.shields.io/github/stars/Rajal-ui?style=flat-square&logo=github&label=Stargazers&color=teal" alt="GitHub Stars" /></a>
-<a href="https://leetcode.com/u/Rajal_Mistry/"><img src="https://img.shields.io/badge/LeetCode-Rajal_Mistry-FFA116?style=flat-square&logo=leetcode&logoColor=yellow" alt="LeetCode" /></a>
 
 
 Hi, I’m Rajal — a full‑stack programmer and software engineer passionate about building scalable systems and integrating AI into real‑world projects. I design production‑ready APIs, craft backend and frontend solutions, and experiment with GenAI to push boundaries. My work is powered by curiosity, clean code, and the occasional caffeine boost — turning complex problems into elegant, efficient solutions.
@@ -14,6 +12,7 @@ Hi, I’m Rajal — a full‑stack programmer and software engineer passionate a
 [![Google Dev](https://img.shields.io/badge/Google%20Dev-4285F4?logo=google&logoColor=white)](https://g.dev/rajalmistry)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajalmistry544@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Rajal--ui-181717?logo=github&logoColor=white)](https://github.com/Rajal-ui)
+[![Google Skills](https://img.shields.io/badge/Google%20Skills%20Boost-4285F4?logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/aed8d26e-afab-49c4-9607-a9b98781c6b5)
 
 ---
 
